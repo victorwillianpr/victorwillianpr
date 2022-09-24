@@ -8,8 +8,14 @@ Sinta-se a vontade para me seguir no LinkedIn também!✌️😊
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt"LinkedIn Badge"/>
 </a>
  <div>
+ 
+**Me chamo Victor Willian👨🏻‍💻**
 
-Sou estudante de Sistemas de Informação pela
-<div id = "escolaridade">
-  <img src = "est.png" width = "50px" align = "left">
+💻🖱️Estudante de Sistemas de Informações pela UEA - EST
+<div id = "uea est">
+  <img src = "ueaest.png" width= "85px">
 <div>
+
+🤖🤖Técnico em Mecatrônica pelo IFAM
+<div id = "mec ifam">
+  
