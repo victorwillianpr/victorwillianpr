@@ -18,4 +18,5 @@ Sinta-se a vontade para me seguir no LinkedIn também!✌️😊
 
 🤖🤖Técnico em Mecatrônica pelo IFAM
 <div id = "mec ifam">
-  
+
+ 
