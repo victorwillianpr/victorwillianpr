@@ -11,12 +11,10 @@ Sinta-se a vontade para me seguir no LinkedIn também!✌️😊
  
 **Me chamo Victor Willian👨🏻‍💻**
 
-💻🖱️Estudante de Sistemas de Informações pela UEA - EST
+💻Estudante de Sistemas de Informações pela UEA - EST
 <div id = "uea est">
   <img src = "ueaest.png" width= "85px">
 <div>
 
-🤖🤖Técnico em Mecatrônica pelo IFAM
+🤖Técnico em Mecatrônica pelo IFAM
 <div id = "mec ifam">
-
- 
