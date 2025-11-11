@@ -24,9 +24,3 @@ Sinta-se a vontade para me seguir no LinkedIn também!
   
 <div>
 
---- 
-
-<div align = "left">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorwillianpr&show_icons=true&theme=bear&count_private=true"/>
-<img width = "400px" src="https://github-readme-stats.vercel.app/api?username=victorwillianpr&show_icons=true&show_icons=true&theme=bear&count_private=true" />
-</div>
