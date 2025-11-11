@@ -14,7 +14,7 @@
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
   <img src="https://img.shields.io/badge/huggingface-%23FFD21E.svg?style=for-the-badge&logo=huggingface&logoColor=white">
   <img src="https://img.shields.io/badge/ollama-%23000000.svg?style=for-the-badge&logo=ollama&logoColor=white">
-  <img src="(https://img.shields.io/badge/YOLO-111F68?style=for-the-badge&logo=yolo&logoColor=white">
+  <img src="https://img.shields.io/badge/YOLO-111F68?style=for-the-badge&logo=yolo&logoColor=white">
   <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white">
   <img src="https://img.shields.io/badge/node%20%20-grey?style=for-the-badge&logo=node.js">
   <img src="https://img.shields.io/badge/REACT%20%20-grey?style=for-the-badge&logo=react">
