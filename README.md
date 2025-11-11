@@ -6,6 +6,9 @@
 <a href = "https://www.linkedin.com/in/victorwillian/">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt"LinkedIn Badge"/>
 </a>
+<a href = "https://www.kaggle.com/victorwillianpr">
+  <img src="https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white">
+</a>
  <div>
  
              
@@ -17,6 +20,8 @@
   <img src="https://img.shields.io/badge/YOLO-111F68?style=for-the-badge&logo=yolo&logoColor=white">
   <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white">
   <img src="https://img.shields.io/badge/node%20%20-grey?style=for-the-badge&logo=node.js">
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
+  <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white">
   <img src="https://img.shields.io/badge/REACT%20%20-grey?style=for-the-badge&logo=react">
   <img src="https://img.shields.io/badge/vue%20%20-grey?style=for-the-badge&logo=vue.js">
   
