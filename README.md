@@ -2,7 +2,6 @@
 
 **Olá!**
 
-Sinta-se a vontade para me seguir no LinkedIn também!
 <div id= "badges">
 <a href = "https://www.linkedin.com/in/victorwillian/">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt"LinkedIn Badge"/>
@@ -13,7 +12,7 @@ Sinta-se a vontade para me seguir no LinkedIn também!
 - Conhecimento das seguintes tecnologias
 <div>
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
-  <img src="https://img.shields.io/badge/csharp%20%20-purple?style=for-the-badge&logo=csharp">
+  <img src="https://img.shields.io/badge/huggingface-%23FFD21E.svg?style=for-the-badge&logo=huggingface&logoColor=white">
   <img src="https://img.shields.io/badge/.net%20%20-purple?style=for-the-badge&logo=.net">
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
   <img src="https://img.shields.io/badge/node%20%20-grey?style=for-the-badge&logo=node.js">
